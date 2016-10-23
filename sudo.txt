@@ -1,0 +1,21 @@
+'''
+PURPOSE: ALLOW FTP PROGRAMS
+INS:
+    HOSTNAME
+    PORT
+    LOGIN
+    PASS
+OUTS:
+    FILE TO UPLOAD  -> UPLOADS
+    FILE TO DOWNLOAD -> DOWNLOADS
+    FILE TO DELETE
+    FILE TO RENAME
+    LIST
+'''
+
+fileToUpload = 'C:\\users\\danrusu\\downloads\\prox.txt'
+fileToDownload = 'index.php'
+directory = '/trucker1st/'
+host = '66.147.244.187'
+user = 'dan@danbrusu.com'
+password = '$Krys1212'
